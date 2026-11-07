@@ -17,7 +17,5 @@ print(f"Penjumlahan : {angka1} + {angka2} = {angka1 + angka2}")
 print(f"Pengurangan : {angka1} - {angka2} = {angka1 - angka2}")
 print(f"Perkalian   : {angka1} x {angka2} = {angka1 * angka2}")
 
-if angka2 != 0:
-    print(f"Pembagian   : {angka1} / {angka2} = {angka1 / angka2}")
-else:
-    print("Pembagian   : tidak bisa dibagi dengan nol")
+
+
